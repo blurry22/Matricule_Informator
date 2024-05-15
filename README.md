@@ -10,7 +10,7 @@ Funciona únicamente para vehículos registrados en España.
 -Axios `npm install axios`
 
 ## Iniciar el servidor
-- Inicia el servidor ejecutando node main.ts
+- Inicia el servidor ejecutando `node main.ts`
 - Cuando veas "Listening", puedes comenzar a hacer peticiones
 
 Servidor = 127.0.0.1:3000
