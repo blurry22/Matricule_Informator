@@ -20,19 +20,19 @@ Server = 127.0.0.1:3000
 - Get Full Information
   `/all/{License_plate}`
 
-  For example : GET http://127.0.0.1:3000/4545JJJ
+  For example : GET http://127.0.0.1:3000/all/4545JJJ
 
 - Get Model
 `/model/{License_plate}`
 
-For example : GET http://127.0.0.1:3000/4545JJJ
+For example : GET http://127.0.0.1:3000/model/4545JJJ
 
 - Get VIN
 `/vin/{License_plate}`
 
-For example : GET http://127.0.0.1:3000/4545JJJ
+For example : GET http://127.0.0.1:3000/vin/4545JJJ
 
 -Get Hourse Power
 `/power/{License_plate}`
 
-For example : GET http://127.0.0.1:3000/4545JJJ
+For example : GET http://127.0.0.1:3000/power/4545JJJ
