@@ -51,7 +51,9 @@ Por ejemplo : GET http://127.0.0.1:3000/model/4545JJJ
   "marca": "Volkswagen",
   "modelo": "Golf",
   "version": "1.6 TDI BlueMotion",
-}```
+}
+
+```
 
 - Obtener VIN
 `/vin/{License_plate}`
@@ -61,7 +63,9 @@ Por ejemplo : GET http://127.0.0.1:3000/vin/4545JJJ
 ```json
 {
   "VIN": "WVWZZZ1KZPW123456"
-}```
+}
+
+```
 
 
 - Obtener Caballos
@@ -73,7 +77,9 @@ Por ejemplo : GET http://127.0.0.1:3000/power/4545JJJ
 ```json
 {
   "Caballos": "110",
-}```
+}
+
+```
 
 
 
