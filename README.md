@@ -23,7 +23,10 @@ Servidor = 127.0.0.1:3000
   `/{Matricula}`
 
   Por ejemplo : GET http://127.0.0.1:3000/all/4545JJJ
-```json{
+
+  
+```json
+{
   "marca": "Volkswagen",
   "modelo": "Golf",
   "version": "1.6 TDI BlueMotion",
@@ -33,7 +36,9 @@ Servidor = 127.0.0.1:3000
   "Automatico_Manual": "Manual",
   "Año_Fabricacion": "2017",
   "VIN": "WVWZZZ1KZPW123456" 
-}```
+}
+
+```
 
 - Obtener modelo
 `/modelo/{Matricula}`
