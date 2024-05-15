@@ -19,7 +19,6 @@ Servidor = 127.0.0.1:3000
 ### GET
 
 - Obtener toda la información
-
   `/{Matricula}`
 
   Por ejemplo : GET http://127.0.0.1:3000/all/4545JJJ
