@@ -5,12 +5,12 @@ Funciona únicamente para vehículos registrados en España.
 
 
 ## Requisitos
--Node.js (se recomienda la versión 14 o superior) [https://nodejs.org/en/download/current]
+-Deno 
 -Express `npm install express`
 -Axios `npm install axios`
 
 ## Iniciar el servidor
-- Inicia el servidor ejecutando `node main.ts`
+- Inicia el servidor ejecutando `deno run main.ts`
 - Cuando veas "Listening", puedes comenzar a hacer peticiones
 
 Servidor = 127.0.0.1:3000
